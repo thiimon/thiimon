@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-My name is **Thiago Monteiro**, I'm 18 years old and I'm a Cross-Platform Software Development student at Fatec Praia Grande. I am extremely passionate about this field and here I'll show all of the projects I'm developing. 👨‍💻
+My name is **Thiago Monteiro**, I'm 18 years old and I'm a Cross-Platform Software Development student at Fatec Praia Grande. I am extremely passionate about this field and here I'll show all of the projects I'm developing. :octocat:
 
 - 🌱 Learning **HTML/CSS, JavaScript, C# and SQL**
 - 🌎 I write and speak in **Brazilian Portuguese** *(my native language)* and **English**
