@@ -5,7 +5,7 @@ My name is **Thiago Monteiro**, I'm 18 years old and I'm a Cross-Platform Softwa
 ---
 
 - 🌱 Learning **HTML/CSS, JavaScript, C# and SQL**
-- 🌎 I write and speak in **Brazilian Portuguese** *(my native language)* and **English**
+- 🌎 My native language is **Brazilian Portuguese**. I write perfectly in **English** and speaking-wise, my English skills are somewhere between basic and intermediate.
 - 🎯 My goal is to **bring all of my personality and creativity to my projects**, so I can grow professionally and contribute to this area that always interested me since I was a child.
 - 📬 You can contact me via **Discord** *(thiimon)* and <a href="https://www.linkedin.com/in/thiimon">LinkedIn</a>
 - ⚡ Random fact about myself: **I like to play table tennis in my free time** 🏓
